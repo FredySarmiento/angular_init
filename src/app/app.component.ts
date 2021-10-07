@@ -6,5 +6,7 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'my-store';
+  name= 'fredycode';
+  age = 28;
+  img = "https://www.w3schools.com/howto/img_avatar.png"
 }
